@@ -3,7 +3,7 @@
 ## Visuais criados
 
 ### 🗺️ Visual Mapa 1
-- **Tipo:** Mapa coroplético
+- **Tipo:** Mapa Dispersão
 - **Objetivo:** Mostrar a soma de *Sales* e *Units Sold* por país
 - **Campos utilizados:**
   - Localização: `Country`
@@ -11,7 +11,7 @@
   - Tooltip: `Profit`, `Gross Sales`
 
 ### 🗺️ Visual Mapa 2
-- **Tipo:** Mapa coroplético
+- **Tipo:** Mapa Barras
 - **Objetivo:** Mostrar a soma de *Profit* por país
 - **Campos utilizados:**
   - Localização: `Country`
@@ -19,7 +19,7 @@
   - Tooltip: `Sales`, `Units Sold`
 
 ### Visual de Rosca
-- **Tipo:** Gráfico de pizza
+- **Tipo:** Gráfico de rosca
 - **Objetivo:** Mostrar a distribuição do *Profit* por segmento
 - **Campos utilizados:**
   - Legenda: `Segment`
@@ -42,7 +42,6 @@
 
 ## Publicação
 - Relatório publicado no Power BI Service.
-- Compartilhado como suplemento no PowerPoint para apresentações.
 - Caso não haja PowerPoint disponível, o projeto foi salvo diretamente no Power BI Desktop (`.pbix`).
 
 ---
